@@ -44,11 +44,22 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Branches](https://img.shields.io/badge/GitHub_Branches-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub PRs](https://img.shields.io/badge/GitHub_PR_Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Django Tests](https://img.shields.io/badge/Django_Tests-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6B6B?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-1F8ACB?style=for-the-badge&logo=n8n&logoColor=white)
+
+
+### 📊 Project Management
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-273347?style=for-the-badge&logo=asana&logoColor=white)
+
 
 ### 💻 Frontend & Others
 
