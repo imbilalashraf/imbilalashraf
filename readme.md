@@ -1,102 +1,117 @@
-# Hi there, I'm Muhammad Shoaib :wave:
+# Hi there, I'm Muhammad Bilal Ashraf 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Backend+Developer;Django+%26+DRF+Expert;FinTech+Enthusiast;AI+Solutions+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Python+%7C+Django+%7C+FastAPI+Developer;AI+Solutions+Engineer;Automation+and+Backend+Specialist;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shoaibatmaca&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=imbilalashraf&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
 
-## :rocket: About Me
+## 🚀 About Me
 
-Passionate **Backend Developer** specializing in building robust, scalable systems with Django and Django REST Framework. I focus on creating efficient APIs, admin panels, and microservice architectures that solve real-world problems.
+I’m a **Python Backend & AI Developer** passionate about crafting intelligent, scalable systems.  
+With experience in **Django**, **FastAPI**, and **AI automations**, I love blending backend engineering with intelligent systems to build real-world digital solutions.
 
-- :wrench: **Expertise**: Django, DRF, Celery, Redis, PostgreSQL
-- :building_construction: **Architecture**: Microservices, API-first design, Clean Code
-- :briefcase: **Domain**: FinTech, AI Solutions, Automation
-- :e-mail: **Contact**: mshoaibkaglur@gmail.com
-- :zap: **Passion**: Solving complex problems through elegant backend solutions
+- 🧠 **Expertise:** Django, Django REST Framework, FastAPI, LangChain, n8n Automations, Botpress
+- 🏗 **Architecture:** REST APIs, Microservices, Event-driven Systems, Clean Code  
+- ⚙️ **Domain:** AI Applications, FinTech, SaaS Platforms, Automation Systems  
+- 📬 **Contact:** imbilalashraf00@gmail.com  
+- 🔥 **Passion:** Turning ideas into intelligent backend and AI-driven products  
 
 ---
 
-## :hammer_and_wrench: Tech Stack
+## 🛠️ Tech Stack
 
-### Backend Technologies
+### 🧩 Backend Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/DRF-092E20?style=for-the-badge&logo=django&logoColor=red)
+![Django REST Framework](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Databases & Caching
+### 🗄️ Databases & Caching
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Tools
+### ⚙️ DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![n8n](https://img.shields.io/badge/n8n-1F8ACB?style=for-the-badge&logo=n8n&logoColor=white)
 
-### Frontend & Others
+### 💻 Frontend & Others
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## :bar_chart: GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shoaibatmaca&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imbilalashraf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibatmaca&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imbilalashraf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoaibatmaca&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imbilalashraf&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shoaibatmaca&theme=tokyonight&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
-
----
-
-## :trophy: GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shoaibatmaca&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imbilalashraf&theme=tokyonight&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
 </div>
 
 ---
 
-## :chart_with_upwards_trend: Contribution Graph
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shoaibatmaca&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=imbilalashraf&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
 
-## :handshake: Connect With Me
+## 💼 Featured Projects
+
+- 🧠 [RAG Blog Assistant](https://github.com/imbilalashraf/rag-blog-assistant) —  
+  An AI-powered **RAG system** that writes **religious blogs** in the author’s unique tone and style using **FastAPI**, **LLMs**, and **vector embeddings**.
+
+- 🍽️ [Restaurant AI Assistant](https://github.com/imbilalashraf/restaurant-ai-assistant) —  
+  A **DRF-based customer care system** that connects to **Facebook and Instagram business pages**, trains on restaurant data, and auto-replies to customers using conversational AI.
+
+- 🏡 [ImmoPilot](https://github.com/imbilalashraf/immopilot) —  
+  A **property management AI agent** built with **FastAPI** that manages **properties, units, tenants**, and interprets **German legal documents (Swiss law)** to guide users with property insights and analytics.
+
+- 📊 [Visualize Coding (Botpress + Zoho + Zapier)](https://github.com/imbilalashraf/visualize-coding) —  
+  An **AI-driven mortgage analysis assistant** built on **Botpress**, integrated with **Zoho CRM** and **Zapier** to analyze loan data via NLP and automate email + CRM updates.
+
+- 🏫 [School Management System](https://github.com/imbilalashraf/school-management-system) —  
+  A **Django + PostgreSQL** platform for schools to manage **teachers, students, and online lectures**, featuring **real-time activity tracking**, **auto-logout**, and **performance analytics**.
+
+- 💹 [Quantum Signals](https://github.com/imbilalashraf/quantum-signals) —  
+  A **FastAPI-based microservice** that uses **AI/ML models** for **crypto signal analysis and backtesting**. Includes **Zitadel authentication**, **API key system**, **rate limiting**, and **API analytics** for paid subscriptions.
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://shoaibatmaca.github.io/">
+  <a href="https://imbilalashraf.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-shoaib-b1bb911a0/">
+  <a href="https://www.linkedin.com/in/muhammad-bilal-ashraf-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:mshoaibkaglur@gmail.com">
+  <a href="mailto:bilalashrafdev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/shoaibatmaca">
+  <a href="https://github.com/imbilalashraf">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -108,12 +123,12 @@ Passionate **Backend Developer** specializing in building robust, scalable syste
 </div>
 
 <div align="center">
-  <b>:star: Star some repositories if you like my work!</b>
+  <b>⭐ Star some repositories if you like my work!</b>
 </div>
 
 ---
 
 <div align="center">
-  <i>"Code like poetry — elegant, purposeful, and expressive."</i><br>
-  <b>— Muhammad Shoaib</b>
+  <i>"Code with purpose, automate with logic, and innovate with AI."</i><br>
+  <b>— Muhammad Bilal Ashraf</b>
 </div>
