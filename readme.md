@@ -44,6 +44,9 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-1F8ACB?style=for-the-badge&logo=n8n&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Django Tests](https://img.shields.io/badge/Django_Tests-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 💻 Frontend & Others
 
