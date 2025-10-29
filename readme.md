@@ -47,6 +47,8 @@ With experience in **Django**, **FastAPI**, and **AI automations**, I love blend
 ![GitHub Branches](https://img.shields.io/badge/GitHub_Branches-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub PRs](https://img.shields.io/badge/GitHub_PR_Workflow-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Django Tests](https://img.shields.io/badge/Django_Tests-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-FF6B6B?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
